@@ -1,7 +1,7 @@
 ### About me:
 - 👋 Hi, I’m @BedPled
 - 👀 I’m interested in Data Science, Machine Learning and Artificial Intelligence
-- 🌱 Now I’m studying at the university in the 4th year
+- 🌱 Now I’m currently studying for a master's degree
 - 📫 You can write to my Telegram or this email alexander.vischnyakov@gmail.com 
 
 
